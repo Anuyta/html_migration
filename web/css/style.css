@@ -1,0 +1,552 @@
+
+body {
+	background-color:#f4f4f4;
+	padding:0px;
+	margin:0px;
+}
+
+
+.container {
+	width:960px;
+	margin:0px auto;
+}
+
+.head {
+	width:100%;
+	float:left;
+	border-top:20px solid #090909;
+	border-bottom:1px solid #c0c0c0;
+}
+
+.logo {
+	background:url(../images/Logo.png)no-repeat;
+	width:185px;
+	min-height:100px;
+	float:left;
+	margin: 20px 0px 0px 20px;
+}
+
+.menuBox {
+	width:650px;
+	min-height:117px;
+	float:right;
+	margin:20px 0 0 0;
+	
+}
+
+
+.email {
+	text-decoration:none;
+	width:168px;
+	float:right;
+	text-align:right;
+}
+
+.email a {
+	color:#999898;
+	text-decoration:none;
+}
+
+.menu {
+	float:right;
+	margin:20px 0 0 0;
+}
+
+.menu ul {
+	padding:0px;
+	margin:0px;
+}
+
+.menu li {
+	font-family:Tahoma;
+	font-size:14px;
+	color:#090909;
+	float:left;
+	margin: 0 50px 0 0;
+}
+
+.menu li a {
+	color:#fe9b00;
+	text-decoration:none;
+}
+
+.menu ul li a:hover {
+	color:#090909;
+}
+
+.baner {
+	background:url(../images/slader.jpg);
+	width:100%;
+	min-height:380px;
+	float:left;
+	margin:20px 0 0 0;
+		
+}
+
+.readMore {
+	background-color:#090909;
+	width:445px;
+	min-height:45px;
+	float:left;
+	margin:290px 0 0 35px;
+
+}
+
+.nice {
+	color:#999898;
+	font-family:Tahoma;
+	font-size:16px;
+	width:258px;
+	float:left;
+	text-align:left;
+	margin:15px 0 0 14px;
+}
+
+.viewProject {
+	color:#fe9b00;
+	font-family:Tahoma;
+	font-size:16px;
+	float: right;
+    margin: 15px 10px 0 0;
+}
+
+
+
+.viewProject:after{
+	background:url(../images/strelka.png)no-repeat;
+	margin:4px 0 0 0;
+	width:11px;
+	height:10px;
+	content:'';
+	display:inline-block;
+}
+
+
+.info {
+	width:100%;
+	min-height:309px;
+	display: inline;
+	margin:20px 0 0 0;
+	border-top:1px solid #c0c0c0;
+	border-bottom:1px solid #c0c0c0;
+}
+
+.info1 {
+	width: 300px;
+	min-height:273px;
+	float:left;
+}
+
+.strelaBlack {
+	background:url(../images/strelka-black.png);
+	width:11px;
+	min-height:7px;
+	float:left;
+	margin:33px 0 0 2px;
+}
+
+.aboutus {
+	color:#000000;
+	font-family:Tahoma;
+	font-size:18px;
+	float:left;
+	text-align:left;
+	margin:25px 0 12px 16px;
+}
+
+.Text1 {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	padding-top:20px;
+	border-top:6px solid #090909;
+}
+
+.strelaBlack2 {
+	background:url(../images/strelka-black.png);
+	width:11px;
+	min-height:7px;
+	float:left;
+	margin:21px 0 0 2px;
+}
+
+.read {
+	color:#fe9b00;
+	font-family:Tahoma;
+	font-size:18px;
+	float:left;
+	text-align:left;
+	margin:13px 0 0 16px;
+}
+
+.info2 {
+	width:283px;
+	min-height:273px;
+	float:left;
+	margin:0 0 0 60px;
+}
+
+.strelaBlack3 {
+	background:url(../images/strelka-black.png);
+	width:11px;
+	min-height:7px;
+	float:left;
+	margin:33px 0 0 2px;
+}
+
+.ourbenefits {
+	color:#000000;
+	font-family:Tahoma;
+	font-size:18px;
+	float:left;
+	text-align:left;
+	margin:25px 0 12px 16px;
+}
+
+.square {
+	background:url(../images/square.jpg);
+	width:16px;
+	min-height:16px;
+	float:left;
+	margin:4px 14px 32px 0;
+	
+}
+
+.Text2a {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	padding-top:20px;
+	border-top:6px solid #090909;
+}
+
+.square2 {
+	background:url(../images/square.jpg);
+	width:16px;
+	min-height:16px;
+	float:left;
+	margin:4px 14px 32px 0;
+	
+}
+
+.Text2b {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	padding-top:13px;
+}
+
+.square3 {
+	background:url(../images/square.jpg);
+	width:16px;
+	min-height:16px;
+	float:left;
+	margin:4px 14px 32px 0;
+	
+}
+
+.Text2c {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	padding-top:13px;
+}
+
+.info3 {
+	width:283px;
+	min-height:273px;
+	float:right;
+	margin:0 0 0 0;
+}
+
+.strelaBlack4 {
+	background:url(../images/strelka-black.png);
+	width:11px;
+	min-height:7px;
+	float:left;
+	margin:33px 0 0 0;
+}
+
+.testimonials {
+	color:#000000;
+	font-family:Tahoma;
+	font-size:18px;
+	float:left;
+	text-align:left;
+	margin:25px 0 12px 16px;
+}
+
+.Text3 {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	padding-top:20px;
+	border-top:6px solid #090909;
+}
+
+.Rafi {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	margin:13px 0 0 0;
+}
+
+.portfolio {
+	width:100%;
+	min-height:230px;
+	float:left;
+	border-bottom:1px solid #c0c0c0;
+}
+
+.ourportfolio {
+	width:100%;
+	min-height:55px;
+	float:left;
+}
+
+.strelaBlack5 {
+	background:url(../images/strelka-black.png);
+	width:11px;
+	min-height:7px;
+	float:left;
+	margin:29px 0 0 2px;
+}
+
+.textportfo {
+	color:#000000;
+	font-family:Tahoma;
+	font-size:18px;
+	float:left;
+	text-align:left;
+	margin:21px 0 0 17px;
+}
+
+.photo {
+	width:100%;
+	min-height:135px;
+	float:left;
+}
+
+.foto1 {
+	
+	width:213px;
+	min-height:135px;
+	float:left;
+	margin-right:35px;
+	position:relative;
+}
+
+.foto1:last-child{
+			margin-right:0px;
+}
+
+
+.viewblok {
+	background-color:#fe9b00;
+	width:63px;
+	min-height:20px;
+	float:left;
+	margin:0 0 0 17px;
+	position:absolute;
+	bottom:4px;
+	right:-2px;
+}
+
+.view {
+	color:#090909;
+	font-family:Tahoma;
+	font-size:13px;
+	float:right;
+	margin:2px 0 0 10px;
+}
+
+.view:after{
+	background:url(../images/strelka-black.png)no-repeat;
+	margin: 0px 4px -1px 0px;
+	width:11px;
+	height:10px;
+	content:'';
+	display:inline-block;
+}
+
+
+
+.blog {
+	width:100%;
+	min-height:163px;
+	float:left;
+}
+
+.blogtext {
+	width:740px;
+	min-height:163px;
+	float:left;
+}
+
+.strelaBlack6 {
+	background:url(../images/strelka-black.png);
+	width:11px;
+	min-height:7px;
+	float:left;
+	margin:33px 0 0 2px;
+}
+
+.blogup {
+	color:#000000;
+	font-family:Tahoma;
+	font-size:15px;
+	float:left;
+	text-align:left;
+	margin:27px 0 0 17px;
+}
+
+.btext {
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	text-align:left;
+	margin:30px 80px 0 0;
+}
+
+.conect {
+	width:220px;
+	min-height:163px;
+	float:left;
+}
+
+.conectus {
+	color:#000000;
+	font-family:Tahoma;
+	font-size:15px;
+	float:left;
+	text-align:left;
+	margin:27px 0 0 25px;
+}
+
+.conectus:before{
+	background:url(../images/strelka-black.png)no-repeat;
+	margin:4px 10px 0 -21px;
+	width:11px;
+	height:10px;
+	content:'';
+	display:inline-block;
+}
+
+.icon {
+	width:100%;
+	min-height:32px;
+	float:left;
+	margin:30px 0 0 0;
+}
+
+.icon1 {
+	background:url(../images/icon1.png);
+	width:32px;
+	min-height:32px;
+	float:left;
+}
+
+.icon2 {
+	background:url(../images/icon2.png);
+	width:32px;
+	min-height:32px;
+	float:left;
+	margin:0 0 0 16px;
+}
+
+.icon3 {
+	background:url(../images/icon3.png);
+	width:32px;
+	min-height:32px;
+	float:left;
+	margin:0 0 0 16px;
+}
+
+.icon4 {
+	background:url(../images/icon4.png);
+	width:32px;
+	min-height:32px;
+	float:left;
+	margin:0 0 0 16px;
+}
+
+.end {
+	background-color:#e2e2e2;
+	width:100%;
+	min-height:100px;
+	float:left;
+}
+
+.menuEnd {
+	width:380px;
+	min-height:58px;
+	float:left;
+	
+}
+
+.menuE {
+	float:left;
+	margin:33px 0 0 3px;
+}
+
+.menuE ul {
+	padding:0px;
+	margin:0px;
+}
+
+.menuE li {
+	font-family:Tahoma;
+	font-size:13px;
+	float:left;
+	margin: 0 10px 0 0;
+	border-right: 1px solid #5d5d5d;
+    padding: 0px 5px 0 0;
+}
+
+.menuE li a {
+	text-decoration:none;
+	color:#5d5d5d;
+}
+
+.CS {
+	float:left;
+	color:#5d5d5d;
+	font-family:Tahoma;
+	font-size:13px;
+	text-align:left;
+	margin: 10px 12px 0 0;
+	
+}
+
+.logoEnd {
+	background:url(../images/Logo2.png)no-repeat;
+	width:120px;
+	min-height:65px;
+	float:right;
+	margin: 20px 0px 0px 0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
